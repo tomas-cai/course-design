@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程润色"
+  short_description: "课程讲师话术与节奏润色：将平铺直叙的教学转化为令人愉悦的产品体验"
+  default_prompt: "帮我润色这门课的讲师手册"
