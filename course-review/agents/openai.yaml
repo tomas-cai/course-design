@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程评审"
+  short_description: "五维课程项目评审模型：结构完整性、内部一致性、内容深度、可教性、风险评估"
+  default_prompt: "帮我评审这个课程项目的质量"

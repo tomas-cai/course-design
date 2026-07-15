@@ -1,0 +1,4 @@
+interface:
+  display_name: "培训需求发现"
+  short_description: "从模糊的市场信号和个人观察中，结构化地发现培训商机并形成课程假设"
+  default_prompt: "我想探索培训方向"

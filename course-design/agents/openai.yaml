@@ -1,0 +1,4 @@
+interface:
+  display_name: "磨课 (Course Design)"
+  short_description: "磨课：六维课程开发方法论，覆盖从需求分析到迭代优化的全流程引导"
+  default_prompt: "我想开发一门课程，请帮我从需求分析开始"
